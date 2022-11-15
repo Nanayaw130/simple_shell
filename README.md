@@ -5,7 +5,7 @@
 
 ***
 # Description
-This is a simple UNIX command interpreter and is written in C language.It is a milestone project for sprint 1 at ALX Africa
+This is a simple UNIX command interpreter and is written in C language.It is a milestone project for sprint 1 at ALX Africa.
 
 ***
 # Installation
@@ -14,4 +14,13 @@ Clone this repository into your working directory.
 https://github.com/Nanayaw130/simple_shell.git
 
 ```
+***
+# Requirements
 _The files was compiled on Ubuntu 20.04 LTS using gcc,and the following flags u -Wall -Werror -Wextra -pedantic -std=gnu89 were used._
+
+
+***
+# Builtins
+- .env
+- exist
+
