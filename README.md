@@ -26,4 +26,5 @@ _The files was compiled on Ubuntu 20.04 LTS using gcc,and the following flags u 
 
 ***
 # Credits
-- Henry Agyemang ![](Nanayaw130)
+- Henry Agyemang ![](https://github.com/kobbi156)
+- Nana Yaw Amankrah ![](https://github.com/Nanayaw130)
