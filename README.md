@@ -1,1 +1,3 @@
-readme file for simple shell
+#SIMPLE SHELL
+
+readme file
