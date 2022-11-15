@@ -5,5 +5,6 @@
 
 ***
 # Description
-This a simple UNIX command interpreter and is written in C language.It is a milestone project for sprint 1 at ALX Africa
+This is a simple UNIX command interpreter and is written in C language.It is a milestone project for sprint 1 at ALX Africa
+
 
