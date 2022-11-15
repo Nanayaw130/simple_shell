@@ -14,3 +14,4 @@ Clone this repository into your working directory.
 https://github.com/Nanayaw130/simple_shell.git
 
 ```
+_The files was compiled on Ubuntu 20.04 LTS using gcc,and the following flags u -Wall -Werror -Wextra -pedantic -std=gnu89 were used._
