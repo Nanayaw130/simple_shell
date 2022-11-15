@@ -7,4 +7,7 @@
 # Description
 This is a simple UNIX command interpreter and is written in C language.It is a milestone project for sprint 1 at ALX Africa
 
-
+***
+# Installation
+Clone this repository into your working directory.
+>https://github.com/Nanayaw130/simple_shell.git
