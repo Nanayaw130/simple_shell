@@ -10,4 +10,4 @@ This is a simple UNIX command interpreter and is written in C language.It is a m
 ***
 # Installation
 Clone this repository into your working directory.
->https://github.com/Nanayaw130/simple_shell.git
+> https://github.com/Nanayaw130/simple_shell.git
