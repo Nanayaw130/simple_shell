@@ -1,3 +1,3 @@
-#SIMPLE SHELL
+# SIMPLE SHELL PROJECT
 
-readme file
+this is a simple shell
