@@ -24,3 +24,6 @@ _The files was compiled on Ubuntu 20.04 LTS using gcc,and the following flags u 
 - .env
 - exist
 
+***
+# Credits
+- Henry Agyemang ![](Nanayaw130)
